@@ -15,7 +15,7 @@ My interest in technology grew stronger with every challenge and opportunity. Su
 ## 🎓 Education & Accomplishments
 
 ### 📚 Education:
-- **2025** – Massage Therapist Certificate – *Diinah Institute of Beauty Training CC*
+- **2025** – BSc Computer Systems Engineering – *Botswana Accountancy College*
 - **2021** – BGCSE – *Naledi Senior Secondary School*
 - **2019** – JCE – *Tlogatloga Junior Secondary School*
 - **2016** – PSLE – *Tshiamo Primary School*
