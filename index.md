@@ -1,45 +1,57 @@
-# My Personal Bio
+# 👋 Hello, I'm Thato Blessing Tlhalefang
 
-## About Me
-Hello! My name is [Your Name]. I am a participant in the Africa Code Academy Engineering Residency Program 2024.
-
-## Background
-- **Name:** [Your Full Name]
-- **Location:** [Your Location]
-- **Education:** [Your Education Background]
-- **Skills:** [List of Skills]
-
-## Journey
-### Early Life
-[Describe your early life and how you got interested in software development.]
-
-### Education and Career
-[Describe your education journey and any relevant work experience.]
-
-### Goals
-[Outline your goals for the future and what you hope to achieve through this program.]
-
-## Projects
-### Project 1
-[Description of the first project]
-
-### Project 2
-[Description of the second project]
-
-## Contact
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
+Welcome to my personal bio page! I’m a passionate tech learner currently enrolled in the **Africa Code Academy ERP 2025** program. Here’s my story:
 
 ---
 
-# Alternate Mult-Page Template
+## 🌍 Where I’m From
 
-## Sections
+I’m proudly from **Botswana** 🇧🇼 — a beautiful country full of rich culture and kind people. My educational journey began at Tshiamo Primary School and continued through to Botswana Accountancy College, where I studied **Computer Systems Engineering**.
 
-- [About Me](about.md)
-- [Skills](skills.md)
-- [Projects](projects/index.md)
-- [Contact](contact.md)
+My interest in technology grew stronger with every challenge and opportunity. Supportive mentors, hands-on projects, and a strong desire to create solutions have all helped shape who I am today.
 
-This is the main landing page for your profile. Customize it to introduce yourself and provide links to other sections.
+---
+
+## 🎓 Education & Accomplishments
+
+### 📚 Education:
+- **2025** – Massage Therapist Certificate – *Diinah Institute of Beauty Training CC*
+- **2021** – BGCSE – *Naledi Senior Secondary School*
+- **2019** – JCE – *Tlogatloga Junior Secondary School*
+- **2016** – PSLE – *Tshiamo Primary School*
+
+### 🏆 Accomplishments:
+- Created a  website as an assigment using **Java Servlets**, **JSP** and **MySQL** for a fictional company (*AI-Solution*)
+- Completed team-based projects with version control and deployment using GitHub
+
+---
+
+## 🚀 Ambitions for the Future
+
+Through this course, I hope to become a **full-stack developer** and solve real-world problems, especially in sectors like **healthcare, education**, and **social services**.
+
+I’m particularly interested in:
+- Real-time systems (e.g. Smart Hospitals)
+- AI-powered tools for better decision-making
+- Building platforms that improve access to services
+
+After the course, I aim to:
+- Work with innovative tech teams
+- Contribute to open-source projects
+- Launch solutions that impact lives across Africa
+
+---
+
+## 💬 Common Interests & Fun Facts
+
+- I enjoy working with **web technologies**, **mobile apps** and **creative UI design**
+- I like exploring new tools, collaborating with peers and solving logic problems
+- Outside of tech, I enjoy **community service**, **graphic design** and **music**
+
+If you're passionate about tech and learning, we’ll definitely get along!
+
+---
+
+📬 [Contact Me](contact.md) • 💼 [View My Skills](skills.md) • 🛠️ [My Projects](projects/)
+
+
