@@ -6,7 +6,7 @@ Welcome to my personal bio page! I’m a passionate tech learner currently enrol
 
 ## 🌍 Where I’m From
 
-I’m proudly from **Botswana** 🇧🇼 — a beautiful country full of rich culture and kind people. My educational journey began at Tshiamo Primary School and continued through to Botswana Accountancy College, where I studied **Computer Systems Engineering**.
+I’m proudly from **Botswana** a beautiful country full of rich culture and kind people. My educational journey began at Tshiamo Primary School and continued through to Botswana Accountancy College, where I studied **Computer Systems Engineering**.
 
 My interest in technology grew stronger with every challenge and opportunity. Supportive mentors, hands-on projects, and a strong desire to create solutions have all helped shape who I am today.
 
