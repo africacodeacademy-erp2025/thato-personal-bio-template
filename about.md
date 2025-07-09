@@ -1,15 +1,11 @@
-# About Me
+# 👋 About Me
 
-Write a brief bio about yourself here. You can include information about your background, interests, and what motivates you.
+Hi, I'm Thato Blessing Tlhalefang from Botswana.
 
-## Early Life
+I’m a curious, determined, and creative problem solver who loves turning ideas into real solutions. From a young age, I was fascinated by how technology works. My background in Computer Systems Engineering has helped me understand both the hardware and software sides of computing.
 
-Describe your early life and any significant experiences.
+I enjoy learning new tools and languages, and I’m passionate about using tech to improve everyday life, especially in underserved communities.
 
-## Education
+Outside of tech, I enjoy volunteering, playing music, and exploring design and photography.
 
-List your educational background and any relevant courses or degrees.
-
-## Professional Experience
-
-Detail your professional experience and any notable achievements.
+Let’s build something impactful together!
