@@ -45,8 +45,8 @@ After the course, I aim to:
 ## 💬 Common Interests & Fun Facts
 
 - I enjoy working with **web technologies**, **mobile apps** and **creative UI design**
-- I like exploring new tools, collaborating with peers and solving logic problems
-- Outside of tech, I enjoy **community service**, **graphic design** and **music**
+- I like exploring new tools and solving logic problems
+- Outside of tech, I enjoy **community service**, **car repairs** and **music**
 
 If you're passionate about tech and learning, we’ll definitely get along!
 
